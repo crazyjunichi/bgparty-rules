@@ -1,0 +1,842 @@
+[
+  {
+    "id": "agricola",
+    "lang": "en",
+    "path": "agricola/en.pdf",
+    "mb": 2.9
+  },
+  {
+    "id": "amanite",
+    "lang": "en",
+    "path": "amanite/en.pdf",
+    "mb": 3.5
+  },
+  {
+    "id": "azul",
+    "lang": "en",
+    "path": "azul/en.pdf",
+    "mb": 3.8
+  },
+  {
+    "id": "beastybar",
+    "lang": "de",
+    "path": "beastybar/de.pdf",
+    "mb": 2.5
+  },
+  {
+    "id": "blacksonata",
+    "lang": "en",
+    "path": "blacksonata/en.pdf",
+    "mb": 1.2
+  },
+  {
+    "id": "bombbusters",
+    "lang": "en",
+    "path": "bombbusters/en.pdf",
+    "mb": 3
+  },
+  {
+    "id": "brains",
+    "lang": "en",
+    "path": "brains/en.pdf",
+    "mb": 1.9
+  },
+  {
+    "id": "brass",
+    "lang": "en",
+    "path": "brass/en.pdf",
+    "mb": 4.8
+  },
+  {
+    "id": "bravo",
+    "lang": "de",
+    "path": "bravo/de.pdf",
+    "mb": 2.1
+  },
+  {
+    "id": "bullet",
+    "lang": "en",
+    "path": "bullet/en.pdf",
+    "mb": 3.9
+  },
+  {
+    "id": "burglebros",
+    "lang": "en",
+    "path": "burglebros/en.pdf",
+    "mb": 5.9
+  },
+  {
+    "id": "cahoots",
+    "lang": "en",
+    "path": "cahoots/en.pdf",
+    "mb": 0.4
+  },
+  {
+    "id": "camelup",
+    "lang": "en",
+    "path": "camelup/en.pdf",
+    "mb": 4.3
+  },
+  {
+    "id": "cascadia",
+    "lang": "en",
+    "path": "cascadia/en.pdf",
+    "mb": 4.1
+  },
+  {
+    "id": "castlecombo",
+    "lang": "en",
+    "path": "castlecombo/en.pdf",
+    "mb": 2
+  },
+  {
+    "id": "catan",
+    "lang": "en",
+    "path": "catan/en.pdf",
+    "mb": 2.6
+  },
+  {
+    "id": "catbox",
+    "lang": "en",
+    "path": "catbox/en.pdf",
+    "mb": 1.5
+  },
+  {
+    "id": "caverna",
+    "lang": "en",
+    "path": "caverna/en.pdf",
+    "mb": 4.4
+  },
+  {
+    "id": "challengers",
+    "lang": "en",
+    "path": "challengers/en.pdf",
+    "mb": 2.7
+  },
+  {
+    "id": "clever",
+    "lang": "de",
+    "path": "clever/de.pdf",
+    "mb": 1
+  },
+  {
+    "id": "clever-cubed",
+    "lang": "de",
+    "path": "clever-cubed/de.pdf",
+    "mb": 2.5
+  },
+  {
+    "id": "coffeeroaster",
+    "lang": "en",
+    "path": "coffeeroaster/en.pdf",
+    "mb": 3.7
+  },
+  {
+    "id": "coltexpress",
+    "lang": "en",
+    "path": "coltexpress/en.pdf",
+    "mb": 2.2
+  },
+  {
+    "id": "counterattack",
+    "lang": "en",
+    "path": "counterattack/en.pdf",
+    "mb": 2.2
+  },
+  {
+    "id": "cryptid",
+    "lang": "en",
+    "path": "cryptid/en.pdf",
+    "mb": 2.6
+  },
+  {
+    "id": "decko",
+    "lang": "en",
+    "path": "decko/en.pdf",
+    "mb": 3.7
+  },
+  {
+    "id": "decrypto",
+    "lang": "zh",
+    "path": "decrypto/zh.pdf",
+    "mb": 1.3
+  },
+  {
+    "id": "deepsea",
+    "lang": "en",
+    "path": "deepsea/en.pdf",
+    "mb": 1.7
+  },
+  {
+    "id": "dicetown",
+    "lang": "en",
+    "path": "dicetown/en.pdf",
+    "mb": 2.9
+  },
+  {
+    "id": "dmd",
+    "lang": "en",
+    "path": "dmd/en.pdf",
+    "mb": 2
+  },
+  {
+    "id": "dnup",
+    "lang": "en",
+    "path": "dnup/en.pdf",
+    "mb": 0.6
+  },
+  {
+    "id": "dnup",
+    "lang": "zh",
+    "path": "dnup/zh.pdf",
+    "mb": 0
+  },
+  {
+    "id": "doppelt-so-clever",
+    "lang": "de",
+    "path": "doppelt-so-clever/de.pdf",
+    "mb": 4.3
+  },
+  {
+    "id": "duel",
+    "lang": "en",
+    "path": "duel/en.pdf",
+    "mb": 4.2
+  },
+  {
+    "id": "eternaldecks",
+    "lang": "en",
+    "path": "eternaldecks/en.pdf",
+    "mb": 5.2
+  },
+  {
+    "id": "fakeartist",
+    "lang": "en",
+    "path": "fakeartist/en.pdf",
+    "mb": 0.4
+  },
+  {
+    "id": "fantasyrealms",
+    "lang": "en",
+    "path": "fantasyrealms/en.pdf",
+    "mb": 0.7
+  },
+  {
+    "id": "faraway",
+    "lang": "en",
+    "path": "faraway/en.pdf",
+    "mb": 1.9
+  },
+  {
+    "id": "fastsloths",
+    "lang": "en",
+    "path": "fastsloths/en.pdf",
+    "mb": 2.1
+  },
+  {
+    "id": "fcm",
+    "lang": "en",
+    "path": "fcm/en.pdf",
+    "mb": 4.7
+  },
+  {
+    "id": "finalgirl",
+    "lang": "en",
+    "path": "finalgirl/en.pdf",
+    "mb": 3.3
+  },
+  {
+    "id": "finaltitan",
+    "lang": "en",
+    "path": "finaltitan/en.pdf",
+    "mb": 5.4
+  },
+  {
+    "id": "firstrat",
+    "lang": "en",
+    "path": "firstrat/en.pdf",
+    "mb": 4.6
+  },
+  {
+    "id": "flip7",
+    "lang": "en",
+    "path": "flip7/en.pdf",
+    "mb": 0.8
+  },
+  {
+    "id": "fliptown",
+    "lang": "en",
+    "path": "fliptown/en.pdf",
+    "mb": 3
+  },
+  {
+    "id": "fornorthwood",
+    "lang": "en",
+    "path": "fornorthwood/en.pdf",
+    "mb": 0.6
+  },
+  {
+    "id": "frostedbloom",
+    "lang": "en",
+    "path": "frostedbloom/en.pdf",
+    "mb": 3.8
+  },
+  {
+    "id": "gizmos",
+    "lang": "en",
+    "path": "gizmos/en.pdf",
+    "mb": 3.3
+  },
+  {
+    "id": "glux",
+    "lang": "en",
+    "path": "glux/en.pdf",
+    "mb": 1.1
+  },
+  {
+    "id": "growingseason",
+    "lang": "es",
+    "path": "growingseason/es.pdf",
+    "mb": 4.8
+  },
+  {
+    "id": "gwent",
+    "lang": "en",
+    "path": "gwent/en.pdf",
+    "mb": 1.1
+  },
+  {
+    "id": "hanabi",
+    "lang": "en",
+    "path": "hanabi/en.pdf",
+    "mb": 4.2
+  },
+  {
+    "id": "hanafuda",
+    "lang": "en",
+    "path": "hanafuda/en.pdf",
+    "mb": 2.3
+  },
+  {
+    "id": "hanamikoji",
+    "lang": "en",
+    "path": "hanamikoji/en.pdf",
+    "mb": 2
+  },
+  {
+    "id": "happypigs",
+    "lang": "en",
+    "path": "happypigs/en.pdf",
+    "mb": 1.5
+  },
+  {
+    "id": "heat",
+    "lang": "en",
+    "path": "heat/en.pdf",
+    "mb": 5.1
+  },
+  {
+    "id": "herbalism",
+    "lang": "en",
+    "path": "herbalism/en.pdf",
+    "mb": 0.7
+  },
+  {
+    "id": "herbalism",
+    "lang": "zh",
+    "path": "herbalism/zh.pdf",
+    "mb": 1.2
+  },
+  {
+    "id": "heroeswac",
+    "lang": "ru",
+    "path": "heroeswac/ru.pdf",
+    "mb": 4.4
+  },
+  {
+    "id": "incan",
+    "lang": "en",
+    "path": "incan/en.pdf",
+    "mb": 0.2
+  },
+  {
+    "id": "incubo",
+    "lang": "en",
+    "path": "incubo/en.pdf",
+    "mb": 1.4
+  },
+  {
+    "id": "jaipur",
+    "lang": "en",
+    "path": "jaipur/en.pdf",
+    "mb": 2.6
+  },
+  {
+    "id": "kanban",
+    "lang": "en",
+    "path": "kanban/en.pdf",
+    "mb": 2
+  },
+  {
+    "id": "lacuenta",
+    "lang": "es",
+    "path": "lacuenta/es.pdf",
+    "mb": 0.9
+  },
+  {
+    "id": "lairs",
+    "lang": "en",
+    "path": "lairs/en.pdf",
+    "mb": 2.6
+  },
+  {
+    "id": "lasvegas",
+    "lang": "en",
+    "path": "lasvegas/en.pdf",
+    "mb": 0.9
+  },
+  {
+    "id": "lasvegas-royale",
+    "lang": "de",
+    "path": "lasvegas-royale/de.pdf",
+    "mb": 2.2
+  },
+  {
+    "id": "longshot",
+    "lang": "en",
+    "path": "longshot/en.pdf",
+    "mb": 1.4
+  },
+  {
+    "id": "lostcode",
+    "lang": "en",
+    "path": "lostcode/en.pdf",
+    "mb": 0.4
+  },
+  {
+    "id": "lovecraftletter",
+    "lang": "en",
+    "path": "lovecraftletter/en.pdf",
+    "mb": 2.7
+  },
+  {
+    "id": "loveletter",
+    "lang": "en",
+    "path": "loveletter/en.pdf",
+    "mb": 0.6
+  },
+  {
+    "id": "machikoro2",
+    "lang": "en",
+    "path": "machikoro2/en.pdf",
+    "mb": 3.4
+  },
+  {
+    "id": "magicalathlete",
+    "lang": "en",
+    "path": "magicalathlete/en.pdf",
+    "mb": 3.7
+  },
+  {
+    "id": "mahjong",
+    "lang": "en",
+    "path": "mahjong/en.pdf",
+    "mb": 0.1
+  },
+  {
+    "id": "manila",
+    "lang": "en",
+    "path": "manila/en.pdf",
+    "mb": 0.5
+  },
+  {
+    "id": "moon",
+    "lang": "en",
+    "path": "moon/en.pdf",
+    "mb": 5.1
+  },
+  {
+    "id": "myfavoritethings",
+    "lang": "en",
+    "path": "myfavoritethings/en.pdf",
+    "mb": 2.6
+  },
+  {
+    "id": "nextstation",
+    "lang": "en",
+    "path": "nextstation/en.pdf",
+    "mb": 2.7
+  },
+  {
+    "id": "ninja",
+    "lang": "en",
+    "path": "ninja/en.pdf",
+    "mb": 0.8
+  },
+  {
+    "id": "onward",
+    "lang": "en",
+    "path": "onward/en.pdf",
+    "mb": 4.4
+  },
+  {
+    "id": "orapa",
+    "lang": "en",
+    "path": "orapa/en.pdf",
+    "mb": 2.5
+  },
+  {
+    "id": "parade",
+    "lang": "en",
+    "path": "parade/en.pdf",
+    "mb": 0.6
+  },
+  {
+    "id": "patchwork",
+    "lang": "en",
+    "path": "patchwork/en.pdf",
+    "mb": 1.8
+  },
+  {
+    "id": "philosophy",
+    "lang": "en",
+    "path": "philosophy/en.pdf",
+    "mb": 3.7
+  },
+  {
+    "id": "philosophy",
+    "lang": "zh",
+    "path": "philosophy/zh.pdf",
+    "mb": 3.3
+  },
+  {
+    "id": "planetx",
+    "lang": "en",
+    "path": "planetx/en.pdf",
+    "mb": 2.4
+  },
+  {
+    "id": "projectl",
+    "lang": "en",
+    "path": "projectl/en.pdf",
+    "mb": 1.6
+  },
+  {
+    "id": "qe",
+    "lang": "en",
+    "path": "qe/en.pdf",
+    "mb": 2.2
+  },
+  {
+    "id": "quacks",
+    "lang": "de",
+    "path": "quacks/de.pdf",
+    "mb": 2.8
+  },
+  {
+    "id": "queensgarden",
+    "lang": "en",
+    "path": "queensgarden/en.pdf",
+    "mb": 1.7
+  },
+  {
+    "id": "qwixx",
+    "lang": "en",
+    "path": "qwixx/en.pdf",
+    "mb": 1.6
+  },
+  {
+    "id": "readysetbet",
+    "lang": "en",
+    "path": "readysetbet/en.pdf",
+    "mb": 1
+  },
+  {
+    "id": "rebirth",
+    "lang": "en",
+    "path": "rebirth/en.pdf",
+    "mb": 3.7
+  },
+  {
+    "id": "regicide",
+    "lang": "en",
+    "path": "regicide/en.pdf",
+    "mb": 0.7
+  },
+  {
+    "id": "regicidelegacy",
+    "lang": "en",
+    "path": "regicidelegacy/en.pdf",
+    "mb": 2.7
+  },
+  {
+    "id": "revolvernoir",
+    "lang": "en",
+    "path": "revolvernoir/en.pdf",
+    "mb": 0.8
+  },
+  {
+    "id": "rftg",
+    "lang": "en",
+    "path": "rftg/en.pdf",
+    "mb": 5.3
+  },
+  {
+    "id": "rss",
+    "lang": "en",
+    "path": "rss/en.pdf",
+    "mb": 0.8
+  },
+  {
+    "id": "sail",
+    "lang": "en",
+    "path": "sail/en.pdf",
+    "mb": 1.9
+  },
+  {
+    "id": "salad",
+    "lang": "en",
+    "path": "salad/en.pdf",
+    "mb": 0.4
+  },
+  {
+    "id": "sanguosha",
+    "lang": "zh",
+    "path": "sanguosha/zh.pdf",
+    "mb": 12.8
+  },
+  {
+    "id": "scoundrel",
+    "lang": "en",
+    "path": "scoundrel/en.pdf",
+    "mb": 0.4
+  },
+  {
+    "id": "scout",
+    "lang": "en",
+    "path": "scout/en.pdf",
+    "mb": 1.9
+  },
+  {
+    "id": "skyteam",
+    "lang": "en",
+    "path": "skyteam/en.pdf",
+    "mb": 3.6
+  },
+  {
+    "id": "spice",
+    "lang": "en",
+    "path": "spice/en.pdf",
+    "mb": 1.9
+  },
+  {
+    "id": "spire",
+    "lang": "en",
+    "path": "spire/en.pdf",
+    "mb": 5.8
+  },
+  {
+    "id": "spiritisland",
+    "lang": "en",
+    "path": "spiritisland/en.pdf",
+    "mb": 1
+  },
+  {
+    "id": "splendor",
+    "lang": "en",
+    "path": "splendor/en.pdf",
+    "mb": 2
+  },
+  {
+    "id": "splendorduel",
+    "lang": "en",
+    "path": "splendorduel/en.pdf",
+    "mb": 2.9
+  },
+  {
+    "id": "splendorpokemon",
+    "lang": "zh",
+    "path": "splendorpokemon/zh.pdf",
+    "mb": 5.2
+  },
+  {
+    "id": "startups",
+    "lang": "en",
+    "path": "startups/en.pdf",
+    "mb": 0.3
+  },
+  {
+    "id": "subtext",
+    "lang": "en",
+    "path": "subtext/en.pdf",
+    "mb": 0.7
+  },
+  {
+    "id": "sushigo",
+    "lang": "en",
+    "path": "sushigo/en.pdf",
+    "mb": 3.2
+  },
+  {
+    "id": "svea",
+    "lang": "en",
+    "path": "svea/en.pdf",
+    "mb": 4
+  },
+  {
+    "id": "svea",
+    "lang": "zh",
+    "path": "svea/zh.pdf",
+    "mb": 0.5
+  },
+  {
+    "id": "tagiron",
+    "lang": "en",
+    "path": "tagiron/en.pdf",
+    "mb": 0.5
+  },
+  {
+    "id": "tagteam",
+    "lang": "en",
+    "path": "tagteam/en.pdf",
+    "mb": 2.3
+  },
+  {
+    "id": "ted",
+    "lang": "en",
+    "path": "ted/en.pdf",
+    "mb": 3
+  },
+  {
+    "id": "tembo",
+    "lang": "en",
+    "path": "tembo/en.pdf",
+    "mb": 3.1
+  },
+  {
+    "id": "tend",
+    "lang": "en",
+    "path": "tend/en.pdf",
+    "mb": 4.9
+  },
+  {
+    "id": "threesisters",
+    "lang": "en",
+    "path": "threesisters/en.pdf",
+    "mb": 3.2
+  },
+  {
+    "id": "toomanybones",
+    "lang": "en",
+    "path": "toomanybones/en.pdf",
+    "mb": 4.8
+  },
+  {
+    "id": "tornadosplash",
+    "lang": "en",
+    "path": "tornadosplash/en.pdf",
+    "mb": 2.9
+  },
+  {
+    "id": "toybattle",
+    "lang": "en",
+    "path": "toybattle/en.pdf",
+    "mb": 2.4
+  },
+  {
+    "id": "toybattle",
+    "lang": "zh",
+    "path": "toybattle/zh.pdf",
+    "mb": 3.2
+  },
+  {
+    "id": "ttr",
+    "lang": "en",
+    "path": "ttr/en.pdf",
+    "mb": 3
+  },
+  {
+    "id": "ttykm",
+    "lang": "en",
+    "path": "ttykm/en.pdf",
+    "mb": 6.7
+  },
+  {
+    "id": "turingtumble",
+    "lang": "zh",
+    "path": "turingtumble/zh.pdf",
+    "mb": 11.9
+  },
+  {
+    "id": "twilightstruggle",
+    "lang": "en",
+    "path": "twilightstruggle/en.pdf",
+    "mb": 1.4
+  },
+  {
+    "id": "tworooms",
+    "lang": "ja",
+    "path": "tworooms/ja.pdf",
+    "mb": 0.9
+  },
+  {
+    "id": "underfallingskies",
+    "lang": "en",
+    "path": "underfallingskies/en.pdf",
+    "mb": 2.7
+  },
+  {
+    "id": "underfallingskies",
+    "lang": "zh",
+    "path": "underfallingskies/zh.pdf",
+    "mb": 4.8
+  },
+  {
+    "id": "unstoppable",
+    "lang": "en",
+    "path": "unstoppable/en.pdf",
+    "mb": 3.7
+  },
+  {
+    "id": "warchest",
+    "lang": "en",
+    "path": "warchest/en.pdf",
+    "mb": 1.1
+  },
+  {
+    "id": "welcome",
+    "lang": "en",
+    "path": "welcome/en.pdf",
+    "mb": 4.8
+  },
+  {
+    "id": "wildventure",
+    "lang": "en",
+    "path": "wildventure/en.pdf",
+    "mb": 2.4
+  },
+  {
+    "id": "wildventure",
+    "lang": "zh",
+    "path": "wildventure/zh.pdf",
+    "mb": 2.6
+  },
+  {
+    "id": "wingspan",
+    "lang": "en",
+    "path": "wingspan/en.pdf",
+    "mb": 0.8
+  },
+  {
+    "id": "wizard",
+    "lang": "en",
+    "path": "wizard/en.pdf",
+    "mb": 1.1
+  },
+  {
+    "id": "yahtzee",
+    "lang": "en",
+    "path": "yahtzee/en.pdf",
+    "mb": 0.1
+  }
+]
