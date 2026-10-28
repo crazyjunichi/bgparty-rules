@@ -534,6 +534,12 @@
     "mb": 2.8
   },
   {
+    "id": "queenalice",
+    "lang": "en",
+    "path": "queenalice/en.pdf",
+    "mb": 8.9
+  },
+  {
     "id": "queensgarden",
     "lang": "en",
     "path": "queensgarden/en.pdf",
